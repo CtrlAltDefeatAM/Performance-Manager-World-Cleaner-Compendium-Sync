@@ -83,7 +83,6 @@ This module is built for GMs who want:
 - cleaner compendium maintenance
 - easier long-term world upkeep
 
-## Support
 
 ## Main Links
 - **Main Hub:** https://ctrlaltdefeatam.github.io/
