@@ -7,10 +7,10 @@ Foundry VTT performance toolkit focused on client-side optimization, world clean
 ## What It Does
 
 ### Background Performance Manager
-The background manager is built to reduce session strain while you play. It automatically handles FPS stabilization, audio loop cleanup, off-screen video tile control, chat DOM trimming, texture garbage collection, perception refresh management, ghost ruler cleanup, and latency-aware socket throttling. :contentReference[oaicite:1]{index=1}
+The background manager is built to reduce session strain while you play. It automatically handles FPS stabilization, audio loop cleanup, off-screen video tile control, chat DOM trimming, texture garbage collection, perception refresh management, ghost ruler cleanup, and latency-aware socket throttling.
 
 ### World Cleaner
-The GM cleanup side gives you one place to purge common world clutter, including chat log cleanup, combat tracker cleanup, scene thumbnail regeneration, fog of war clearing, ghost folder cleanup, and ghost flag cleanup. These are destructive actions and should be used carefully. :contentReference[oaicite:2]{index=2}
+The GM cleanup side gives you one place to purge common world clutter, including chat log cleanup, combat tracker cleanup, scene thumbnail regeneration, fog of war clearing, ghost folder cleanup, and ghost flag cleanup. These are destructive actions and should be used carefully.
 
 ### Compendium Sync
 The sync tools push matching world entries into unlocked compendiums by name. The UI supports syncing Actor Players, Actor NPCs, Items, Scenes, Macros, Journals, and Roll Tables. Actor Players are filtered to `character`, and Actor NPCs are filtered to `npc`. 
@@ -41,7 +41,7 @@ The cleanup panel includes these purge options:
 - Purge Ghost Folders
 - Clear Macro Flags
 
-These actions cannot be undone. :contentReference[oaicite:5]{index=5}
+These actions cannot be undone.
 
 ### Compendium Sync Targets
 The sync panel supports:
